@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #161716;
+}
+html{
+  scroll-behavior: smooth;
+}
+
+.custom-img{
+  background-image: url(./assets/expo.jpg);
+}
+
+.fade-in {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.visible {
+  opacity: 1;
+}
