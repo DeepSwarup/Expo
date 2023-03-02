@@ -10,7 +10,7 @@ function Hero() {
     <div className="text-white h-screen bg-center bg-cover custom-img mt-[-55px] section">
       <div className="absolute top-0 left-0 right-0 bottom-0 bg-black/70">
       <div className="relative max-w-[800px] mt-0 w-full h-screen mx-auto text-center flex flex-col justify-center" id="home">
-        <p className="md:text-2xl sm:text-xl text-[1.2rem] py-2">
+        <p className="md:text-2xl sm:text-xl text-[1.2rem] py-2 text-[#ff5757]">
           Connect, Collaborate and Sell
         </p>
         <div>
